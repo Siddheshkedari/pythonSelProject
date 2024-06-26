@@ -1,0 +1,57 @@
+2024-05-27 18:59:05,732 :INFO :test_e2e :Getting all the card titles.
+2024-05-27 18:59:05,812 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="0e3c3bbc6c5590d65ccb4385c91867d2", element="f.C06E8C48BA8FFB982306798F496974C4.d.F4DA8E7634FE7E887A087C5A3604FF94.e.44")>
+2024-05-27 18:59:05,843 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="0e3c3bbc6c5590d65ccb4385c91867d2", element="f.C06E8C48BA8FFB982306798F496974C4.d.F4DA8E7634FE7E887A087C5A3604FF94.e.46")>
+2024-05-27 18:59:05,870 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="0e3c3bbc6c5590d65ccb4385c91867d2", element="f.C06E8C48BA8FFB982306798F496974C4.d.F4DA8E7634FE7E887A087C5A3604FF94.e.48")>
+2024-05-27 18:59:05,902 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="0e3c3bbc6c5590d65ccb4385c91867d2", element="f.C06E8C48BA8FFB982306798F496974C4.d.F4DA8E7634FE7E887A087C5A3604FF94.e.50")>
+2024-05-27 18:59:06,114 :INFO :test_e2e :Entering country name : India
+2024-05-27 18:59:11,618 :INFO :test_e2e :Text received form application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-27 19:04:05,050 :INFO :test_formSubmission :First Name is :Deepti
+2024-05-27 19:04:08,054 :INFO :test_e2e :Getting all the card titles.
+2024-05-27 19:04:08,107 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="7251bbf1b73e1b2f0331b730eb7e5d9a", element="f.A6DC10B38115DD3395DD37B0B2B49339.d.76A51E1C556ECE8EFB212B23A283B7C7.e.44")>
+2024-05-27 19:04:08,124 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="7251bbf1b73e1b2f0331b730eb7e5d9a", element="f.A6DC10B38115DD3395DD37B0B2B49339.d.76A51E1C556ECE8EFB212B23A283B7C7.e.46")>
+2024-05-27 19:04:08,141 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="7251bbf1b73e1b2f0331b730eb7e5d9a", element="f.A6DC10B38115DD3395DD37B0B2B49339.d.76A51E1C556ECE8EFB212B23A283B7C7.e.48")>
+2024-05-27 19:04:08,160 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="7251bbf1b73e1b2f0331b730eb7e5d9a", element="f.A6DC10B38115DD3395DD37B0B2B49339.d.76A51E1C556ECE8EFB212B23A283B7C7.e.50")>
+2024-05-27 19:04:08,313 :INFO :test_e2e :Entering country name : India
+2024-05-27 19:04:13,734 :INFO :test_e2e :Text received form application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-27 19:06:50,185 :INFO :test_formSubmission :First Name is :Deepti
+2024-05-27 19:06:50,374 :INFO :test_formSubmission :Email is : Tambade
+2024-05-27 19:06:54,989 :INFO :test_e2e :Getting all the card titles.
+2024-05-27 19:06:55,082 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="fc331179dcadd28701b898612fe5ccfb", element="f.AE233B9412F6737A2A6E5A8743943878.d.0F4930618B780B30FA1A6EAD2AA7EE76.e.45")>
+2024-05-27 19:06:55,107 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="fc331179dcadd28701b898612fe5ccfb", element="f.AE233B9412F6737A2A6E5A8743943878.d.0F4930618B780B30FA1A6EAD2AA7EE76.e.47")>
+2024-05-27 19:06:55,136 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="fc331179dcadd28701b898612fe5ccfb", element="f.AE233B9412F6737A2A6E5A8743943878.d.0F4930618B780B30FA1A6EAD2AA7EE76.e.49")>
+2024-05-27 19:06:55,167 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="fc331179dcadd28701b898612fe5ccfb", element="f.AE233B9412F6737A2A6E5A8743943878.d.0F4930618B780B30FA1A6EAD2AA7EE76.e.51")>
+2024-05-27 19:06:55,389 :INFO :test_e2e :Entering country name : India
+2024-05-27 19:07:00,854 :INFO :test_e2e :Text received form application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-27 19:07:36,955 :INFO :test_formSubmission :First Name is :Deepti
+2024-05-27 19:07:37,111 :INFO :test_formSubmission :Email is : Tambade
+2024-05-27 19:07:43,925 :INFO :test_e2e :Getting all the card titles.
+2024-05-27 19:07:43,995 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="44c15a8bcff58d6625d6a1b45bd16c43", element="f.67D92FE8D26A1418A9B8831382D1D3F2.d.833DA8F252E471AEC7C854CF3CC61958.e.43")>
+2024-05-27 19:07:44,027 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="44c15a8bcff58d6625d6a1b45bd16c43", element="f.67D92FE8D26A1418A9B8831382D1D3F2.d.833DA8F252E471AEC7C854CF3CC61958.e.45")>
+2024-05-27 19:07:44,051 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="44c15a8bcff58d6625d6a1b45bd16c43", element="f.67D92FE8D26A1418A9B8831382D1D3F2.d.833DA8F252E471AEC7C854CF3CC61958.e.47")>
+2024-05-27 19:07:44,082 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="44c15a8bcff58d6625d6a1b45bd16c43", element="f.67D92FE8D26A1418A9B8831382D1D3F2.d.833DA8F252E471AEC7C854CF3CC61958.e.49")>
+2024-05-27 19:07:44,298 :INFO :test_e2e :Entering country name : India
+2024-05-27 19:07:49,892 :INFO :test_e2e :Text received form application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-27 19:09:39,231 :INFO :test_formSubmission :First Name is :Deepti
+2024-05-27 19:09:39,341 :INFO :test_formSubmission :Email is : Tambade
+2024-05-27 19:09:46,029 :INFO :test_e2e :Getting all the card titles.
+2024-05-27 19:09:46,106 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="2f1b97d19709af165356fd401baa4b9d", element="f.C329AB9E007951732B0DB96DB21B8F02.d.D0B484FE746CF3C1A5C2D3C425FB8A26.e.57")>
+2024-05-27 19:09:46,130 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="2f1b97d19709af165356fd401baa4b9d", element="f.C329AB9E007951732B0DB96DB21B8F02.d.D0B484FE746CF3C1A5C2D3C425FB8A26.e.59")>
+2024-05-27 19:09:46,159 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="2f1b97d19709af165356fd401baa4b9d", element="f.C329AB9E007951732B0DB96DB21B8F02.d.D0B484FE746CF3C1A5C2D3C425FB8A26.e.61")>
+2024-05-27 19:09:46,182 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="2f1b97d19709af165356fd401baa4b9d", element="f.C329AB9E007951732B0DB96DB21B8F02.d.D0B484FE746CF3C1A5C2D3C425FB8A26.e.63")>
+2024-05-27 19:09:46,360 :INFO :test_e2e :Entering country name : India
+2024-05-27 19:09:51,943 :INFO :test_e2e :Text received form application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-27 19:19:45,599 :INFO :test_formSubmission :First Name is :Deepti
+2024-05-27 19:19:45,772 :INFO :test_formSubmission :Email is : Tambade
+2024-05-27 19:19:52,083 :INFO :test_e2e :Getting all the card titles.
+2024-05-27 19:19:52,131 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="eab426234f24458d5cf75ae0e4c7422d", element="f.A55DCF86B0CEC8EDBE6C4680F18A950A.d.03568B16A3B5FF4BCF549B5AA7D9BDC0.e.44")>
+2024-05-27 19:19:52,151 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="eab426234f24458d5cf75ae0e4c7422d", element="f.A55DCF86B0CEC8EDBE6C4680F18A950A.d.03568B16A3B5FF4BCF549B5AA7D9BDC0.e.46")>
+2024-05-27 19:19:52,173 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="eab426234f24458d5cf75ae0e4c7422d", element="f.A55DCF86B0CEC8EDBE6C4680F18A950A.d.03568B16A3B5FF4BCF549B5AA7D9BDC0.e.48")>
+2024-05-27 19:19:52,197 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="eab426234f24458d5cf75ae0e4c7422d", element="f.A55DCF86B0CEC8EDBE6C4680F18A950A.d.03568B16A3B5FF4BCF549B5AA7D9BDC0.e.50")>
+2024-05-27 19:19:52,380 :INFO :test_e2e :Entering country name : India
+2024-05-27 19:19:57,829 :INFO :test_e2e :Text received form application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
